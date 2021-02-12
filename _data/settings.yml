@@ -22,7 +22,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: <3 Huanjia Zhang
+  footer_tagline:
 
 grid_settings:
   overlay_opacity: 0.8
