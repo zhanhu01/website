@@ -1,7 +1,7 @@
-site: Huanjia Zhang
+site: Duet Jekyll Theme
 
-url: huanjiazhang.com
-baseurl: huanjiazhang.com
+url: 
+baseurl: 
 
 collections:
   pages:
@@ -9,10 +9,10 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /clips/:slug
-  # projects:
-  #   output: true
-  #   permalink: /project/:slug
+    permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
 
 defaults:
   -
