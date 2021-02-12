@@ -1,8 +1,8 @@
 ---
-title: About Duet
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Duet is a beautiful Jekyll portfolio theme.
-featured_image: /images/demo/demo-landscape.jpg
+title: About Huanjia Zhang
+subtitle:
+description: A science journalist in Philadelphia and New York, writing about food and the environment.
+featured_image: /images/HZ_headshot.jpg
 ---
 
 ![](/images/HZ_headshot.jpg)
