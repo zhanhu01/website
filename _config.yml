@@ -1,7 +1,7 @@
-site: Duet Jekyll Theme
+site: Huanjia Zhang
 
-url: 
-baseurl: 
+url: https://huanjiazhang.com/
+baseurl:
 
 collections:
   pages:

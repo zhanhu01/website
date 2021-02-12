@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Duet
+  site_title: Huanjia Zhang
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -20,7 +20,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: A beautiful, minimal two-column portfolio Jekyll theme
+  footer_tagline: Science journalist
 
 grid_settings:
   overlay_opacity: 0.8
@@ -34,7 +34,7 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: ''
+  twitter_url: 'https://twitter.com/huanjia_zhang'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
