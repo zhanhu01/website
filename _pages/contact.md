@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Contact science journalist Huanjia Zhang.
+subtitle:
 description: Contact page for Huanjia Zhang, science journalist in New York City and Philadelphia.
 featured_image: /images/demo/demo-landscape.jpg
 ---
