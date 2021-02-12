@@ -9,10 +9,10 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
-  projects:
-    output: true
-    permalink: /project/:slug
+    permalink: /clips/:slug
+  # projects:
+  #   output: true
+  #   permalink: /project/:slug
 
 defaults:
   -
