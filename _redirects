@@ -1,3 +1,3 @@
-/project/test-redirect https://nikoviz.com
-/project/demo-project https://nikomccarty.com
-/about https://nikoviz.com/
+/project/test-redirect https://nikoviz.com 301!
+/project/demo-project https://nikomccarty.com 301!
+/about https://nikoviz.com/ 301!
