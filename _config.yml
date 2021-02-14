@@ -48,6 +48,8 @@ kramdown:
 sass:
   style: compressed
 
+include: [/_redirects]
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
