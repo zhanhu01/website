@@ -1,2 +1,2 @@
-/project/test-redirect https://nikoviz.com
-/project/demo-project https://nikomccarty.com
+/project/test-redirect https://nikoviz.com 301!
+/project/demo-project https://nikomccarty.com 301!
