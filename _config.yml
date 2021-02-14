@@ -48,7 +48,7 @@ kramdown:
 sass:
   style: compressed
 
-include: [/_redirects]
+include: _redirects
 
 plugins:
   - jekyll-paginate
