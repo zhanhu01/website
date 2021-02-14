@@ -6,6 +6,8 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/demo/demo-square.jpg'
 layout: redirected
 sitemap: false
-redirect_to: https://dbatools.io/tag/dbachecks
-permalink: /project/demo-project
+redirect_to: https://www.google.com
+# permalink: /project/demo-project
 ---
+
+## Text here as a sample.
