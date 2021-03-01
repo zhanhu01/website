@@ -72,9 +72,9 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Neuton:wght@300&display=swap" rel="stylesheet">'
-  title_font: '"Neuton", serif'
-  body_font: '"Neuton", serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;500;600&display=swap" rel="stylesheet">'
+  title_font: '"Shippori Mincho", serif'
+  body_font: '"Shippori Mincho", serif'
   regular_weight: 300
   bold_weight: 600
   site_title:
