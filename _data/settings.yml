@@ -76,7 +76,7 @@ font_settings:
   title_font: '"Shippori Mincho", serif'
   body_font: '"Shippori Mincho", serif'
   regular_weight: 300
-  bold_weight: 600
+  bold_weight: 400
   site_title:
     small_size: 25
     medium_size: 30
