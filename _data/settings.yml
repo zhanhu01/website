@@ -74,7 +74,7 @@ color_settings:
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300&family=Shippori+Mincho:wght@400;500;600&display=swap" rel="stylesheet">'
   title_font: '"Lato", serif'
-  body_font: '"Shippori Mincho", serif'
+  body_font: '"Lato", serif'
   regular_weight: 300
   bold_weight: 400
   site_title:
