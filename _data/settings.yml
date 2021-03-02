@@ -72,11 +72,11 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300&family=Shippori+Mincho:wght@400;500;600&display=swap" rel="stylesheet">'
-  title_font: '"Lato", serif'
-  body_font: '"Lato", serif'
-  regular_weight: 300
-  bold_weight: 400
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;1,200;1,300&display=swap" rel="stylesheet">'
+  title_font: '"Source Sans Pro", sans-serif'
+  body_font: '"Source Sans Pro", sans-serif'
+  regular_weight: 200
+  bold_weight: 300
   site_title:
     small_size: 25
     medium_size: 30
