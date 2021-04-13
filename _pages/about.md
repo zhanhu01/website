@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle:
-description: Huanjia Zhang is a science journalist in Philadelphia.
+description: Huanjia Zhang is a science journalist in Baltimore.
 featured_image:
 ---
 
